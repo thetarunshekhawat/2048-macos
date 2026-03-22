@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/master.swiftdeps"
+  },
+  "/Users/tarunshekhawat/Downloads/2048-macos/Sources/GameApp.swift": {
+    "dependencies": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/GameApp.d",
+    "object": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/GameApp.swift.o",
+    "swiftmodule": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/GameApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/GameApp.swiftdeps",
+    "diagnostics": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/GameApp.dia"
+  },
+  "/Users/tarunshekhawat/Downloads/2048-macos/Sources/Model.swift": {
+    "dependencies": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/Model.d",
+    "object": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/Model.swift.o",
+    "swiftmodule": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/Model~partial.swiftmodule",
+    "swift-dependencies": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/Model.swiftdeps",
+    "diagnostics": "/Users/tarunshekhawat/Downloads/2048-macos/.build/arm64-apple-macosx/debug/Game2048.build/Model.dia"
+  }
+}
